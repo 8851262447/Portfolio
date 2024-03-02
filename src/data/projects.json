@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cryptic Hunt",
+    "imageSrc": "projects/project.png",
+    "description": "A full stack website to host and deploy online cryptic/treasure hunts.",
+    "skills": ["MongoDB","Node"],
+    
+    "source": "https://github.com/8851262447/Hunt"
+  },
+  {
+    "title": "Online Quiz ",
+    "imageSrc": "projects/Quiz.jpg",
+    "description": "It is an onine quiz taking platform using python and django.",
+    "skills": ["Django", "Python"],
+    
+    "source": "https://github.com/8851262447/onlinequiz-master"
+  },
+  {
+    "title": "Autonomous RC",
+    "imageSrc": "projects/Rc.jpg",
+    "description": "A self driving RC car which is fully autonomous",
+    "skills": ["Python", "OpenCV"],
+    
+    "source": "https://github.com/8851262447/Auto-RC"
+  },  
+  {
+    "title": "Linkedin Bot",
+    "imageSrc": "projects/bot.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["JavaScript"],
+    
+    "source": "https://github.com/8851262447/Linkedin-bot"
+  }
+]

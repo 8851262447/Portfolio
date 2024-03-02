@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Web Developer and ROC intern",
+    "organisation": "Massachusetts institute of technology",
+    "experiences": ["Worked on ROC robots", "increased accelerometer sensor efficency by 25%"],
+    "imageSrc": "history/MIT.png"
+  },
+  {
+    "role": "FullStack Developer",
+    "organisation": "Freelance",
+    
+    "experiences": ["Did multiple projects of Personal and E-comm websites"],
+    "imageSrc": "history/FREE.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "PAM Co.",
+   
+    "experiences": [
+      "Worked on Backend",
+      "MongoDB and API Authentication"
+    ],
+    "imageSrc": "history/PAM.png"
+  }
+]
