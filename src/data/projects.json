@@ -26,7 +26,7 @@
   {
     "title": "Linkedin Bot",
     "imageSrc": "projects/bot.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a LinkedIn bot that helps you segregate messages.",
     "skills": ["JavaScript"],
     
     "source": "https://github.com/8851262447/Linkedin-bot"
