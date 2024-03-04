@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a full-stack developer with 3 years of experience using MERN stack development. Reach out if you'd like to learn more!
         </p>
-        <a href="https://drive.google.com/file/d/1O5KNkFnvTIJiCQ5m2tNFv7Lm1_9XchUM/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/13N3JhSnwt7fITRYQPW5zred2tckaMvHt/view" className={styles.contactBtn}>
           Resume
         </a>
         
